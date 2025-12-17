@@ -52,7 +52,7 @@ My goal is to continue developing practical embedded solutions while strengtheni
 
 A microcontroller-based system that uses an analog input to control multiple LEDs using threshold-based logic.
 
-🔗 **Repository:**
+🔗 **Repository:** https://github.com/papeeerrr/potentiometer-led-control
 
 ---
 
