@@ -5,18 +5,42 @@
 
 ## 👋 About Me
 
-I am a Computer Engineering graduate with a strong interest in embedded systems, firmware development, and hardware–software integration. I enjoy working close to the hardware and building microcontroller-based systems.
+I am a Computer Engineering graduate with a strong interest in embedded systems, firmware development, and hardware–software integration. My projects focus on microcontroller-based systems, analog and digital interfacing, and structured embedded programming.
+
+I enjoy working close to the hardware—designing circuits, writing firmware, and debugging real-world embedded systems. I am particularly interested in microcontroller applications involving sensors, control logic, and efficient system behavior.
+
+My goal is to continue developing practical embedded solutions while strengthening my understanding of low-level programming and electronic system design.
 
 ---
 
 ## 🔧 Technical Skills
 
-* Embedded C / Arduino C++
-* Analog-to-Digital Conversion (ADC)
-* GPIO & threshold-based logic
-* UART (Serial Communication)
+### Technical Skills
+
+**Microcontrollers**
+
 * Arduino Uno (ATmega328P)
-* Breadboard prototyping & schematics
+
+**Programming**
+
+* Embedded C / Arduino C++
+* Basic C/C++
+
+**Embedded Concepts**
+
+* Analog-to-Digital Conversion (ADC)
+* GPIO control
+* Threshold-based logic
+* Serial communication (UART)
+* Hardware–software integration
+
+**Tools**
+
+* Arduino IDE
+* Tinkercad
+* Serial Monitor
+* Breadboard prototyping
+* Basic schematic design
 
 ---
 
