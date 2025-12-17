@@ -1,16 +1,41 @@
 ## Hi there 👋
 
-<!--
-**papeeerrr/papeeerrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Mario Joseph Cerezo
 
-Here are some ideas to get you started:
+**Computer Engineer | Embedded Systems**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👋 About Me
+
+I am a Computer Engineering graduate with a strong interest in embedded systems, firmware development, and hardware–software integration. I enjoy working close to the hardware and building microcontroller-based systems.
+
+---
+
+## 🔧 Technical Skills
+
+* Embedded C / Arduino C++
+* Analog-to-Digital Conversion (ADC)
+* GPIO & threshold-based logic
+* UART (Serial Communication)
+* Arduino Uno (ATmega328P)
+* Breadboard prototyping & schematics
+
+---
+
+## 📂 Featured Projects
+
+### 🔹 LED Control Using Potentiometer
+
+**Technologies:** Arduino, Embedded C, ADC, GPIO
+
+A microcontroller-based system that uses an analog input to control multiple LEDs using threshold-based logic.
+
+🔗 **Repository:**
+
+---
+
+## 📫 Contact
+
+* 📧 Email: marjocerezo@gmail.com
+* 💻 GitHub: https://github.com/papeeerrr
+* 🔗 LinkedIn: [(https://www.linkedin.com/in/mario-joseph-cerezo-3222b3155/)
+
