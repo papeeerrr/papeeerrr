@@ -1,4 +1,3 @@
-## Hi there 👋
 
 # Mario Joseph Cerezo
 
@@ -37,5 +36,5 @@ A microcontroller-based system that uses an analog input to control multiple LED
 
 * 📧 Email: marjocerezo@gmail.com
 * 💻 GitHub: https://github.com/papeeerrr
-* 🔗 LinkedIn: [(https://www.linkedin.com/in/mario-joseph-cerezo-3222b3155/)
+* 🔗 LinkedIn: https://www.linkedin.com/in/mario-joseph-cerezo-3222b3155
 
